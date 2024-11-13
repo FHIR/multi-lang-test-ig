@@ -10,4 +10,3 @@ A sample, template-driven implementation guide that provides a test environment 
 * Contribution Policy: Standard HL7 GOM arrangements apply
 * Security Information: It's not anticipated that this project will raise security issues, but if it does, report to grahame@hl7.org
 
-
