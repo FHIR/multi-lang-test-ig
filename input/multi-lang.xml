@@ -28,8 +28,8 @@
   <description value="This IG exists to test out the generation of multi-language IGs. Primary language is en, also does nl, pt, and ar (rtl test)"/>
   <jurisdiction>
     <coding>
-      <system value="http://unstats.un.org/unsd/methods/m49/m49.htm"/>
-      <code value="001"/>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="AU"/>
     </coding>
   </jurisdiction>
   <packageId value="hl7.fhir.test.multi-lang"/>
