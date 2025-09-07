@@ -24,13 +24,13 @@
     This guide also relies on a number of parent implementation guides:
   </p>
  
-  {% include dependency-table-nontech-en.xhtml %}
+  {% include dependency-table-nontech.xhtml %}
 
   <a name="ip"> </a>
   <h3>IP Considerations</h3>
-  {% include ip-statements-en.xhtml %}
+  {% include ip-statements.xhtml %}
   
   <a name="cross-version"> </a>
-	{% include cross-version-analysis-inline-en.xhtml %}
+	{% include cross-version-analysis-inline.xhtml %}
 
 </div>
