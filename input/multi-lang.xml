@@ -233,5 +233,9 @@
       <code value="translation-sources"/>
       <value value="input/translations/es"/>
     </parameter>
+    <parameter>
+      <code value="logging"/>
+      <value value="html"/>
+    </parameter>
   </definition>
 </ImplementationGuide>
