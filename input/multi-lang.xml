@@ -213,10 +213,10 @@
       <code value="i18n-lang"/>
       <value value="pt"/>
     </parameter>
-    <!-- <parameter>
+    <parameter>
       <code value="i18n-lang"/>
       <value value="ar"/>
-    </parameter> -->
+    </parameter>
     <parameter>
       <code value="translation-sources"/>
       <value value="input/translations/nl"/>
@@ -225,10 +225,10 @@
       <code value="translation-sources"/>
       <value value="input/translations/pt"/>
     </parameter>
-    <!-- <parameter>
+    <parameter>
       <code value="translation-sources"/>
       <value value="input/translations/ar"/>
-    </parameter> -->
+    </parameter>
     <parameter>
       <code value="translation-sources"/>
       <value value="input/translations/es"/>
