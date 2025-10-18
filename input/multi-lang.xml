@@ -225,10 +225,10 @@
       <code value="translation-sources"/>
       <value value="input/translations/pt"/>
     </parameter>
-    <parameter>
+    <!-- <parameter>
       <code value="translation-sources"/>
       <value value="input/translations/ar"/>
-    </parameter>
+    </parameter> -->
     <parameter>
       <code value="translation-sources"/>
       <value value="input/translations/es"/>
