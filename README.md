@@ -4,7 +4,7 @@ A sample, template-driven implementation guide that provides a test environment 
 
 ## FHIR Foundation Project Statement
 
-* Maintainers: Grahame Grieve, Lloyd Mackenzie, Jose Costa Teixeira
+* Maintainers: Grahame Grieve, Lloyd McKenzie, Jose Costa Teixeira
 * Issues / Discussion: https://chat.fhir.org/#narrow/stream/380308-Multi-lingual-IGs
 * License: Creative Commons Public Domain
 * Contribution Policy: Standard HL7 GOM arrangements apply
