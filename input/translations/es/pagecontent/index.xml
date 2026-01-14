@@ -24,13 +24,13 @@
     Esta guía depende de otras:
   </p>
  
-  {% include dependency-table-nontech-en.xhtml %}
+  {% lang-fragment dependency-table-nontech.xhtml %}
 
   <a name="ip"> </a>
   <h3>Consideraciones IP</h3>
-  {% include ip-statements-en.xhtml %}
+  {% lang-fragment ip-statements.xhtml %}
   
   <a name="cross-version"> </a>
-	{% include cross-version-analysis-inline-en.xhtml %}
+	{% lang-fragment cross-version-analysis-inline.xhtml %}
 
 </div>
