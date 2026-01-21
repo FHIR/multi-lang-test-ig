@@ -1,3 +1,11 @@
-#
-msgid ""
-msgstr ""
+
+# ActorDefinition.title
+#: ActorDefinition.title
+msgid "Example Actor Definition"
+msgstr "تعريف الممثل على سبيل المثال"
+
+# ActorDefinition.description
+#: ActorDefinition.description
+msgid "Client Actor"
+msgstr "ممثل العميل"
+

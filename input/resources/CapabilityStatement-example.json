@@ -1,6 +1,10 @@
 {
   "resourceType": "CapabilityStatement",
   "id": "example",
+  "text": {
+    "status": "extensions",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Sample narrative</div></div>"
+  },
   "url": "http://hl7.org/fhir/test/multi-lang/CapabilityStatement/example",
   
   "name": "ExampleCapabilityStatement",

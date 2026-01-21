@@ -3,4 +3,15 @@
   <p>
    The content of this page has translations to other languages.
   </p>
+  <ul>
+    <li><span class="fhir-conformance" id="conf-1?^example^01">Systems SHALL do the things that are essential</span></li>
+    <li><span class="fhir-conformance" id="conf-2">Systems SHOULD do the things that are good practice</span></li>
+  </ul>
+  <table class="fhir-conformance-list">
+    <tbody>
+      <tr>
+        <th></th>
+      </tr>
+    </tbody>
+  </table>
 </div>

@@ -1,2 +1,11 @@
-# en -> pt
+
+# ActorDefinition.title
+#: ActorDefinition.title
+msgid "Example Actor Definition"
+msgstr "Exemplo de definição de ator"
+
+# ActorDefinition.description
+#: ActorDefinition.description
+msgid "Client Actor"
+msgstr "Ator Cliente"
 

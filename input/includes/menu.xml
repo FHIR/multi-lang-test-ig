@@ -2,7 +2,7 @@
   <li><a href="index.html">IG Home</a></li>
   <li><a href="toc.html">Table of Contents</a></li>
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Pages<b class="caret">
+    <a data-toggle="dropdown" href="index.html" class="dropdown-toggle">Pages<b class="caret">
       </b>
     </a>
     <ul class="dropdown-menu">

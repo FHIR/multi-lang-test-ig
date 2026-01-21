@@ -1,0 +1,103 @@
+{
+  "resourceType" : "Requirements",
+  "id" : "fromNarrative",
+  "url" : "http://hl7.org/fhir/test/multi-lang/Requirements/fromNarrative",
+  "name" : "FromNarrative",
+  "title" : "Narrative Conformance Statements",
+  "status" : "active",
+  "experimental" : false,
+  "description" : "Conformance statements found throughout the narrative of the IG consolidated into this computable resource for traceability purposes",
+  "statement" : [{
+    "extension" : [{
+      "url" : "http://hl7.org/fhir/6.0/StructureDefinition/extension-Requirements.statement.category",
+      "valueCoding" : {
+        "system" : "http://hl7.org/fhir/test/multi-lang/CodeSystem/example",
+        "code" : "01",
+        "display" : "VS1"
+      }
+    },
+    {
+      "url" : "http://hl7.org/fhir/6.0/StructureDefinition/extension-Requirements.statement.actor",
+      "valueString" : "example"
+    }],
+    "key" : "conf-1",
+    "conformance" : ["SHALL"],
+    "conditionality" : true,
+    "requirement" : "Systems SHALL do the things that are essential",
+    "_requirement" : {
+      "extension" : [{
+        "extension" : [{
+          "url" : "lang",
+          "valueCode" : "nl"
+        },
+        {
+          "url" : "content",
+          "valueString" : "Systemen MOETEN de essentiële zaken uitvoeren"
+        }],
+        "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+      },
+      {
+        "extension" : [{
+          "url" : "lang",
+          "valueCode" : "es"
+        },
+        {
+          "url" : "content",
+          "valueString" : "Los sistemas DEBEN hacer las cosas que son esenciales"
+        }],
+        "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+      },
+      {
+        "extension" : [{
+          "url" : "lang",
+          "valueCode" : "pt"
+        },
+        {
+          "url" : "content",
+          "valueString" : "Os sistemas DEVERÃO realizar as ações que são essenciais"
+        }],
+        "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+      }]
+    }
+  },
+  {
+    "key" : "conf-2",
+    "conformance" : ["SHOULD"],
+    "requirement" : "Systems SHOULD do the things that are good practice",
+    "_requirement" : {
+      "extension" : [{
+        "extension" : [{
+          "url" : "lang",
+          "valueCode" : "nl"
+        },
+        {
+          "url" : "content",
+          "valueString" : "Systemen ZOUDEN de zaken moeten uitvoeren die als goede praktijk gelden"
+        }],
+        "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+      },
+      {
+        "extension" : [{
+          "url" : "lang",
+          "valueCode" : "es"
+        },
+        {
+          "url" : "content",
+          "valueString" : "Los sistemas DEBERÍAN hacer las cosas que son una buena práctica"
+        }],
+        "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+      },
+      {
+        "extension" : [{
+          "url" : "lang",
+          "valueCode" : "pt"
+        },
+        {
+          "url" : "content",
+          "valueString" : "Os sistemas DEVERIAM realizar as ações que constituem boas práticas"
+        }],
+        "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+      }]
+    }
+  }]
+}

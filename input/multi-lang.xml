@@ -37,11 +37,98 @@
   <fhirVersion value="4.0.1"/>
   <!-- todo - add dependencies on language packs -->
   <definition>
+    <grouping id="-test-grp">
+      <name value="Test Group">
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="ar"/>
+          </extension>
+          <extension url="content">
+            <valueString value="مجموعة الاختبار"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="es"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Grupo de prueba"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="fr"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Groupe de test"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="nl"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Testgroep"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="pt"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Grupo de teste"/>
+          </extension>
+        </extension>
+      </name>
+      <description value="Description for test group">
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="ar"/>
+          </extension>
+          <extension url="content">
+            <valueString value="وصف لمجموعة الاختبار"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="es"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Descripción del grupo de prueba"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="fr"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Description du groupe de test"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="nl"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Beschrijving van de testgroep"/>
+          </extension>
+        </extension>
+        <extension url="http://hl7.org/fhir/StructureDefinition/translation">
+          <extension url="lang">
+            <valueCode value="pt"/>
+          </extension>
+          <extension url="content">
+            <valueString value="Descrição do grupo de teste"/>
+          </extension>
+        </extension>
+      </description>
+    </grouping>
     <resource>
       <reference>
         <reference value="CodeSystem/example"/>
       </reference>
       <name value="A demonstration code system"/>
+      <groupingId value="-test-grp"/>
     </resource>
     <resource>
       <reference>
@@ -232,6 +319,10 @@
     <parameter>
       <code value="translation-sources"/>
       <value value="input/translations/es"/>
+    </parameter>
+    <parameter>
+      <code value="requirements-category-vs"/>
+      <value value="http://hl7.org/fhir/test/multi-lang/ValueSet/example"/>
     </parameter>
   </definition>
 </ImplementationGuide>

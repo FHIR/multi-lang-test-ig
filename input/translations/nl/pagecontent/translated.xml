@@ -1,6 +1,17 @@
-<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../../../input-cache/schemas/R5/fhir-single.xsd">
   <h3>Cabeçalho 1</h3>
   <p>
    De inhoud van deze pagina heeft vertalingen naar andere talen.
   </p>
+  <ul>
+    <li><span class="fhir-conformance" id="conf-1?^example^01">Systemen MOETEN de essentiële zaken uitvoeren</span></li>
+    <li><span class="fhir-conformance" id="conf-2">Systemen ZOUDEN de zaken moeten uitvoeren die als goede praktijk gelden</span></li>
+  </ul>
+  <table class="fhir-conformance-list">
+    <tbody>
+      <tr>
+        <th></th>
+      </tr>
+    </tbody>
+  </table>
 </div>

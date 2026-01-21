@@ -1,6 +1,17 @@
-<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../../../input-cache/schemas/R5/fhir-single.xsd">
   <h3>Cabeçalho 1</h3>
   <p>
    El contenido de esta página esta traducido al español.
   </p>
+  <ul>
+    <li><span class="fhir-conformance" id="conf-1?^example^01">Los sistemas DEBEN hacer las cosas que son esenciales</span></li>
+    <li><span class="fhir-conformance" id="conf-2">Los sistemas DEBERÍAN hacer las cosas que son una buena práctica</span></li>
+  </ul>
+  <table class="fhir-conformance-list">
+    <tbody>
+      <tr>
+        <th></th>
+      </tr>
+    </tbody>
+  </table>
 </div>

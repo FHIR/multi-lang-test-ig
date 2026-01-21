@@ -1,6 +1,17 @@
-<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../../../input-cache/schemas/R5/fhir-single.xsd">
   <h3>En-tête 1</h3>
   <p>
   Le contenu de cette page a été traduit en français.
   </p>
+  <ul>
+    <li><span class="fhir-conformance" id="conf-1?^example^01">Les systèmes DOIVENT faire les choses essentielles</span></li>
+    <li><span class="fhir-conformance" id="conf-2">Les systèmes DEVRAIENT faire les choses qui constituent de bonnes pratiques</span></li>
+  </ul>
+  <table class="fhir-conformance-list">
+    <tbody>
+      <tr>
+        <th></th>
+      </tr>
+    </tbody>
+  </table>
 </div>
