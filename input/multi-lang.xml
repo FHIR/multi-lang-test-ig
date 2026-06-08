@@ -36,6 +36,9 @@
   <license value="CC0-1.0"/>
   <fhirVersion value="4.0.1"/>
   <!-- todo - add dependencies on language packs -->
+  <dependsOn> 
+    <uri value="http://hl7.org/fhir/uv/ips/ImplementationGuide/hl7.fhir.uv.ips"/> 
+  </dependsOn> 
   <definition>
     <grouping id="-test-grp">
       <name value="Test Group">

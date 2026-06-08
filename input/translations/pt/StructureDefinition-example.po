@@ -15,3 +15,6 @@ msgstr "Exemplo de Definição de Estrutura"
 msgid "HL7 International / FHIR Infrastructure"
 msgstr "HL7 Internacional / Infraestrutura FHIR"
 
+#: StructureDefinition.element.Patient.short
+msgid "Information about an individual or animal receiving health care services"
+msgstr "Informação sobre um indivíduo receptor de cuidados saúde"
