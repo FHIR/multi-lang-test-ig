@@ -1,0 +1,81 @@
+
+# CapabilityStatement.name
+#: CapabilityStatement.name
+msgid "ExampleCapabilityStatement"
+msgstr ""
+
+# CapabilityStatement.title
+#: CapabilityStatement.title
+msgid "Example Capability Statement"
+msgstr "Beispiel-CapabilityStatement"
+
+# CapabilityStatement.publisher
+#: CapabilityStatement.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# CapabilityStatement.description
+#: CapabilityStatement.description
+msgid "Example Capability Statement Instance"
+msgstr "Beispiel-CapabilityStatement-Instanz"
+
+# CapabilityStatement.purpose
+#: CapabilityStatement.purpose
+msgid "Main EHR capability statement, published for contracting and operational support"
+msgstr "Zentrales EHR-CapabilityStatement, veröffentlicht für Vertragszwecke und operative Unterstützung"
+
+# CapabilityStatement.copyright
+#: CapabilityStatement.copyright
+msgid "Copyright © Acme Healthcare and GoodCorp EHR Systems"
+msgstr "Copyright © Acme Healthcare und GoodCorp EHR Systems"
+
+# CapabilityStatement.software.name
+#: CapabilityStatement.software.name
+msgid "EHR"
+msgstr ""
+
+# CapabilityStatement.software.version
+#: CapabilityStatement.software.version
+msgid "0.00.020.2134"
+msgstr ""
+
+# CapabilityStatement.implementation.description
+#: CapabilityStatement.implementation.description
+msgid "main EHR at ACME"
+msgstr "Haupt-EHR bei ACME"
+
+# CapabilityStatement.rest.documentation
+#: CapabilityStatement.rest.documentation
+msgid "Main FHIR endpoint for acem health"
+msgstr "Haupt-FHIR-Endpunkt für acem health"
+
+# CapabilityStatement.rest.security.description
+#: CapabilityStatement.rest.security.description
+msgid "See Smart on FHIR documentation"
+msgstr "Siehe Smart-on-FHIR-Dokumentation"
+
+# CapabilityStatement.rest.resource.documentation
+#: CapabilityStatement.rest.resource.documentation
+msgid "This server does not let the clients create identities."
+msgstr "Dieser Server erlaubt Clients nicht, Identitäten anzulegen."
+
+# CapabilityStatement.rest.resource.interaction.documentation
+#: CapabilityStatement.rest.resource.interaction.documentation
+msgid "Only supported for patient records since 12-Dec 2012"
+msgstr "Nur für Patientendatensätze seit dem 12. Dez. 2012 unterstützt"
+
+# CapabilityStatement.rest.resource.searchParam.documentation
+#: CapabilityStatement.rest.resource.searchParam.documentation
+msgid "Only supports search by institution MRN"
+msgstr "Unterstützt nur die Suche anhand der institutionellen MRN"
+
+# CapabilityStatement.messaging.documentation
+#: CapabilityStatement.messaging.documentation
+msgid "ADT A08 equivalent for external system notifications"
+msgstr "ADT-A08-Äquivalent für Benachrichtigungen externer Systeme"
+
+# CapabilityStatement.document.documentation
+#: CapabilityStatement.document.documentation
+msgid "Basic rules for all documents in the EHR system"
+msgstr "Grundregeln für alle Dokumente im EHR-System"
+

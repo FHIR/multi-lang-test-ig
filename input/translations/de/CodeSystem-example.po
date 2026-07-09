@@ -1,0 +1,41 @@
+
+# CodeSystem.name
+#: CodeSystem.name
+msgid "ExampleCodeSystem"
+msgstr ""
+
+# CodeSystem.title
+#: CodeSystem.title
+msgid "Example Code System"
+msgstr "Beispiel-CodeSystem"
+
+# CodeSystem.publisher
+#: CodeSystem.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# CodeSystem.description
+#: CodeSystem.description
+msgid "Example Code System Instance"
+msgstr "Beispiel-CodeSystem-Instanz"
+
+# CodeSystem.concept.display
+#: CodeSystem.concept.display
+msgid "CS1"
+msgstr ""
+
+# CodeSystem.concept.definition
+#: CodeSystem.concept.definition
+msgid "Made-up code"
+msgstr "Fiktiver Code"
+
+# CodeSystem.concept.designation.value
+#: CodeSystem.concept.designation.value
+msgid "CS2"
+msgstr ""
+
+# CodeSystem.concept.designation.value
+#: CodeSystem.concept.designation.value
+msgid "CS1"
+msgstr ""
+

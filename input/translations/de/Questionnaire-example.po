@@ -1,0 +1,76 @@
+
+# ValueSet.compose.include.concept.display
+#: ValueSet.compose.include.concept.display
+msgid "VS1"
+msgstr ""
+
+# Questionnaire.name
+#: Questionnaire.name
+msgid "ExampleQuestionnaire"
+msgstr ""
+
+# Questionnaire.title
+#: Questionnaire.title
+msgid "Example Questionnaire"
+msgstr "Beispiel-Questionnaire"
+
+# Questionnaire.publisher
+#: Questionnaire.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# Questionnaire.description
+#: Questionnaire.description
+msgid "Example Questionnaire Instance"
+msgstr "Beispiel-Questionnaire-Instanz"
+
+# Questionnaire.item.prefix
+#: Questionnaire.item.prefix
+msgid "1"
+msgstr ""
+
+# Questionnaire.item.enableWhen.question
+#: Questionnaire.item.enableWhen.question
+msgid "1.1"
+msgstr ""
+
+# Questionnaire.item.prefix
+#: Questionnaire.item.prefix
+msgid "1.1"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "Angina Pectoris"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "Angina (disorder)"
+msgstr ""
+
+# Questionnaire.item.prefix
+#: Questionnaire.item.prefix
+msgid "1.1.1"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "Myocardial infarction (disorder)"
+msgstr ""
+
+# Questionnaire.item.prefix
+#: Questionnaire.item.prefix
+msgid "1.1.2"
+msgstr ""
+
+# Questionnaire.item.prefix
+#: Questionnaire.item.prefix
+msgid "1.2"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "pT category"
+msgstr ""
+

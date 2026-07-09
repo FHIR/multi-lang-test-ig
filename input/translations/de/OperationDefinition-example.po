@@ -1,0 +1,56 @@
+
+# OperationDefinition.name
+#: OperationDefinition.name
+msgid "ExampleOperationDefinition"
+msgstr ""
+
+# OperationDefinition.title
+#: OperationDefinition.title
+msgid "Example Operation Definition"
+msgstr "Beispiel-OperationDefinition"
+
+# OperationDefinition.publisher
+#: OperationDefinition.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# OperationDefinition.description
+#: OperationDefinition.description
+msgid "Example Operation Definition Instance"
+msgstr "Beispiel-OperationDefinition-Instanz"
+
+# Coding.display
+#: Coding.display
+msgid "Clinical Venue"
+msgstr "Klinischer Kontext"
+
+# Coding.display
+#: Coding.display
+msgid "inpatient encounter"
+msgstr "stationärer Kontakt"
+
+# OperationDefinition.comment
+#: OperationDefinition.comment
+msgid "Only implemented for Labs and Medications so far"
+msgstr "Bisher nur für Labor und Medikation implementiert"
+
+# OperationDefinition.parameter.documentation
+#: OperationDefinition.parameter.documentation
+msgid "Indicates whether the produced document should be persisted"
+msgstr "Gibt an, ob das erzeugte Dokument persistiert werden soll"
+
+# OperationDefinition.parameter.documentation
+#: OperationDefinition.parameter.documentation
+msgid "Canonical reference to a GraphDefinition. If a URL is provided, it is the canonical reference to a GraphDefinition that it controls what resources are to be added to the bundle when building the document. The GraphDefinition can also specify profiles that apply to the various resources"
+msgstr "Kanonische Referenz auf eine GraphDefinition. Wenn eine URL angegeben wird, ist sie die kanonische Referenz auf eine GraphDefinition, die steuert, welche Ressourcen beim Erstellen des Dokuments zum Bundle hinzugefügt werden. Die GraphDefinition kann außerdem Profile angeben, die für die verschiedenen Ressourcen gelten."
+
+# OperationDefinition.parameter.documentation
+#: OperationDefinition.parameter.documentation
+msgid "The bundle containing the composition and resources associated with it. See FHIR Documents for information on resources that may be included in the bundle."
+msgstr "Das Bundle mit der Composition und den zugehörigen Ressourcen. Informationen darüber, welche Ressourcen im Bundle enthalten sein können, finden sich unter FHIR Documents."
+
+# OperationDefinition.overload.comment
+#: OperationDefinition.overload.comment
+msgid "Graph is presumed to only be direct references if not specified"
+msgstr "Wenn nicht angegeben, wird angenommen, dass der Graph nur direkte Referenzen enthält."
+

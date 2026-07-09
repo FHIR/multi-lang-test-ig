@@ -1,0 +1,41 @@
+
+# A natural language name identifying the structure definition. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: StructureDefinition.name
+msgid "ExampleStructureDefinition"
+msgstr "ExampleStructureDefinition"
+
+# A short, descriptive, user-friendly title for the structure definition.
+#: StructureDefinition.title
+msgid "Example Structure Definition"
+msgstr "Beispiel-StructureDefinition"
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the structure definition.
+#: StructureDefinition.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# A name for the specification that is being mapped to.
+#: StructureDefinition.mapping.rim/name
+msgid "RIM Mapping"
+msgstr "RIM Mapping"
+
+# A name for the specification that is being mapped to.
+#: StructureDefinition.mapping.cda/name
+msgid "CDA (R2)"
+msgstr "CDA (R2)"
+
+# A name for the specification that is being mapped to.
+#: StructureDefinition.mapping.w5/name
+msgid "FiveWs Pattern Mapping"
+msgstr "FiveWs-Pattern-Mapping"
+
+# A name for the specification that is being mapped to.
+#: StructureDefinition.mapping.v2/name
+msgid "HL7 v2 Mapping"
+msgstr "HL7 v2 Mapping"
+
+# A name for the specification that is being mapped to.
+#: StructureDefinition.mapping.loinc/name
+msgid "LOINC code for the element"
+msgstr "LOINC-Code für das Element"
+

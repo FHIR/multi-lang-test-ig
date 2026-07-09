@@ -1,0 +1,17 @@
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../../../input-cache/schemas/R5/fhir-single.xsd">
+  <h3>Überschrift 1</h3>
+  <p>
+   Der Inhalt dieser Seite liegt in deutscher Übersetzung vor.
+  </p>
+  <ul>
+    <li><span class="fhir-conformance" id="conf-1?^example^01">Systeme MÜSSEN die wesentlichen Dinge tun.</span></li>
+    <li><span class="fhir-conformance" id="conf-2">Systeme SOLLTEN die Dinge tun, die guter Praxis entsprechen.</span></li>
+  </ul>
+  <table class="fhir-conformance-list">
+    <tbody>
+      <tr>
+        <th></th>
+      </tr>
+    </tbody>
+  </table>
+</div>

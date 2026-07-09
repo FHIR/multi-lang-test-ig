@@ -1,0 +1,20 @@
+<ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
+  <li><a href="index.html">IG-Startseite</a></li>
+  <li><a href="toc.html">Inhaltsverzeichnis</a></li>
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="index.html" class="dropdown-toggle">Seiten<b class="caret">
+      </b>
+    </a>
+    <ul class="dropdown-menu">
+      <li>
+        <a href="translated.html">Übersetzt</a>
+      </li>
+      <li>
+        <a href="not-translated.html">Nicht übersetzt</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="artifacts.html">Artefakte</a>
+  </li>
+</ul>

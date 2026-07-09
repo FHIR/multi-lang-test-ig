@@ -1,0 +1,21 @@
+
+# Library.name
+#: Library.name
+msgid "ExampleLibrary"
+msgstr ""
+
+# Library.title
+#: Library.title
+msgid "Example Library"
+msgstr "Beispiel-Library"
+
+# Library.publisher
+#: Library.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# Library.description
+#: Library.description
+msgid "Example Library Instance"
+msgstr "Beispiel-Library-Instanz"
+

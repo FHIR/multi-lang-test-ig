@@ -1,0 +1,46 @@
+
+# Requirements.title
+#: Requirements.title
+msgid "Example Requirements"
+msgstr "Beispiel-Requirements"
+
+# Requirements.publisher
+#: Requirements.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# Requirements.description
+#: Requirements.description
+msgid "Example Requirements Instance"
+msgstr "Beispiel-Requirements-Instanz"
+
+# Requirements.statement.label
+#: Requirements.statement.label
+msgid "requirement-B1"
+msgstr ""
+
+# Requirements.statement.requirement
+#: Requirements.statement.requirement
+msgid "Operations based on the SNOMED-CT should use the current version within 24 hours of each release"
+msgstr "Operationen, die auf SNOMED CT basieren, sollten innerhalb von 24 Stunden nach jedem Release die aktuelle Version verwenden."
+
+# Reference.display
+#: Reference.display
+msgid "Lloyd Mackenzie"
+msgstr ""
+
+# Requirements.statement.label
+#: Requirements.statement.label
+msgid "requirement-2/a"
+msgstr ""
+
+# Requirements.statement.requirement
+#: Requirements.statement.requirement
+msgid "ValueSet expansion and validation SHALL have the same result whether or not underlying CodeSystem resources have relationships represented explicitly as properties or implicitly using the CodeSystem resource hierarchy"
+msgstr "ValueSet-Expansion und -Validierung MÜSSEN dasselbe Ergebnis liefern, unabhängig davon, ob zugrunde liegende CodeSystem-Ressourcen Beziehungen explizit als Properties oder implizit über die CodeSystem-Ressourcenhierarchie darstellen."
+
+# Reference.display
+#: Reference.display
+msgid "Robert Hausam"
+msgstr ""
+

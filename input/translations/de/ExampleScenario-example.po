@@ -1,0 +1,326 @@
+
+# ExampleScenario.name
+#: ExampleScenario.name
+msgid "ExampleExampleScenario"
+msgstr ""
+
+# ExampleScenario.publisher
+#: ExampleScenario.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# ExampleScenario.purpose
+#: ExampleScenario.purpose
+msgid "Purpose: this serves to demonstrate the performing of medication administration, by using remote / mobile devices to a) Get the planned medication administrations and b) Record the performing of these administrations without a permanent connection to the EHR."
+msgstr "Zweck: Dieses Beispiel demonstriert die Durchführung von Medikamentenverabreichungen mit dezentralen bzw. mobilen Endgeräten, um a) die geplanten Medikamentenverabreichungen abzurufen und b) die Durchführung dieser Verabreichungen ohne dauerhafte Verbindung zum EHR-System zu dokumentieren."
+
+# ExampleScenario.actor.name
+#: ExampleScenario.actor.name
+msgid "Nurse"
+msgstr "Pflegekraft"
+
+# ExampleScenario.actor.description
+#: ExampleScenario.actor.description
+msgid "The Nurse"
+msgstr "Die Pflegekraft"
+
+# ExampleScenario.actor.name
+#: ExampleScenario.actor.name
+msgid "Nurse's Tablet"
+msgstr "Tablet der Pflegekraft"
+
+# ExampleScenario.actor.description
+#: ExampleScenario.actor.description
+msgid "The entity that receives the Administration Requests to show the nurse to perform them"
+msgstr "Die Entität, die Anforderungen zur Medikamentenverabreichung empfängt, um sie der Pflegekraft zur Durchführung anzuzeigen"
+
+# ExampleScenario.actor.name
+#: ExampleScenario.actor.name
+msgid "MAR / Scheduler"
+msgstr "MAR / Scheduler"
+
+# ExampleScenario.actor.description
+#: ExampleScenario.actor.description
+msgid "The Medication Administration Order Placer"
+msgstr "Das System, das Aufträge zur Medikamentenverabreichung erstellt"
+
+# ExampleScenario.actor.name
+#: ExampleScenario.actor.name
+msgid "MAR / EHR"
+msgstr "MAR / EHR"
+
+# ExampleScenario.actor.description
+#: ExampleScenario.actor.description
+msgid "The entity that receives the Medication Administration reports"
+msgstr "Die Entität, die die Berichte zur Medikamentenverabreichung empfängt"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Initial Prescription"
+msgstr "Initiale Verordnung"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The initial prescription which describes \"medication X, 3 times per day\" - the exact scheduling is not   in the initial prescription (it is left for the care teams to decide on the schedule)."
+msgstr "Die initiale Verordnung, die „Medikament X, 3-mal täglich“ beschreibt; die genaue Zeitplanung steht nicht in der initialen Verordnung, sondern wird vom Behandlungsteam festgelegt."
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Request for day 1, morning"
+msgstr "Anforderung für Tag 1, morgens"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The administration request for day 1, morning"
+msgstr "Die Anforderung zur Medikamentenverabreichung für Tag 1, morgens"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Request for day 1, lunch"
+msgstr "Anforderung für Tag 1, mittags"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The administration request for day 1, lunch"
+msgstr "Die Anforderung zur Medikamentenverabreichung für Tag 1, mittags"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Request for day 1, evening"
+msgstr "Anforderung für Tag 1, abends"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The administration request for day 1, evening"
+msgstr "Die Anforderung zur Medikamentenverabreichung für Tag 1, abends"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Request for day 2, morning"
+msgstr "Anforderung für Tag 2, morgens"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The administration request for day 2, morning"
+msgstr "Die Anforderung zur Medikamentenverabreichung für Tag 2, morgens"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Request for day 2, lunch"
+msgstr "Anforderung für Tag 2, mittags"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The administration request for day 2, lunch"
+msgstr "Die Anforderung zur Medikamentenverabreichung für Tag 2, mittags"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Request for day 2, evening"
+msgstr "Anforderung für Tag 2, abends"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The administration request for day 2, evening"
+msgstr "Die Anforderung zur Medikamentenverabreichung für Tag 2, abends"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Morning meds - taken"
+msgstr "Morgenmedikation - eingenommen"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "Administration report for day 1, morning: Taken"
+msgstr "Bericht zur Medikamentenverabreichung für Tag 1, morgens: eingenommen"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Morning meds - not taken"
+msgstr "Morgenmedikation - nicht eingenommen"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "Administration report for day 1, morning: NOT Taken"
+msgstr "Bericht zur Medikamentenverabreichung für Tag 1, morgens: NICHT eingenommen"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Bundle of Medication Requests"
+msgstr "Bundle mit MedicationRequests"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "All the medication Requests for Day 1"
+msgstr "Alle MedicationRequests für Tag 1"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Lunch meds - taken"
+msgstr "Mittagsmedikation - eingenommen"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "Administration report for day 1, lunch: Taken"
+msgstr "Bericht zur Medikamentenverabreichung für Tag 1, mittags: eingenommen"
+
+# ExampleScenario.instance.version.description
+#: ExampleScenario.instance.version.description
+msgid "Medication just taken"
+msgstr "Medikament soeben eingenommen"
+
+# ExampleScenario.instance.version.description
+#: ExampleScenario.instance.version.description
+msgid "Medication rejected"
+msgstr "Einnahme des Medikaments abgelehnt"
+
+# ExampleScenario.instance.name
+#: ExampleScenario.instance.name
+msgid "Search query1"
+msgstr "Suchanfrage 1"
+
+# ExampleScenario.instance.description
+#: ExampleScenario.instance.description
+msgid "The search administration request for day 1, morning"
+msgstr "Die Suchanfrage nach der Anforderung zur Medikamentenverabreichung für Tag 1, morgens"
+
+# ExampleScenario.process.title
+#: ExampleScenario.process.title
+msgid "Mobile Medication Administration"
+msgstr "Mobile Medikamentenverabreichung"
+
+# ExampleScenario.process.description
+#: ExampleScenario.process.description
+msgid "This scenario demonstrates the process of getting the relevant medication instructions for a patient visit and reporting the results of administration. The scenario is as follows: After the prescription is issued, the institution schedules each individual administration event in the Medication Administration Record (MAR). When preparing for a visit, the nurse queries the MAR for the scheduled administrations, obtaining a bundle of records. The nurse then performs the care activities and registers the results in the device. Upon synchronization of the device and the institution, the results of administration are uploaded to the EHR, thus updating the MAR."
+msgstr "Dieses Szenario demonstriert den Prozess, bei dem die relevanten Medikationsanweisungen für einen Patientenbesuch abgerufen und die Ergebnisse der Verabreichung gemeldet werden. Das Szenario läuft wie folgt ab: Nach Ausstellung der Verordnung plant die Institution jedes einzelne Verabreichungsereignis im Medication Administration Record (MAR). Zur Vorbereitung eines Besuchs fragt die Pflegekraft das MAR nach den geplanten Verabreichungen ab und erhält ein Bundle mit Datensätzen. Anschließend führt die Pflegekraft die Versorgungsaktivitäten durch und erfasst die Ergebnisse auf dem Gerät. Bei der Synchronisierung von Gerät und Institution werden die Verabreichungsergebnisse an das EHR-System übertragen und dadurch das MAR aktualisiert."
+
+# ExampleScenario.process.preConditions
+#: ExampleScenario.process.preConditions
+msgid "Medication administration requests are in the EHR / MAR, scheduled for each individual intake."
+msgstr "Die Anforderungen zur Medikamentenverabreichung liegen im EHR / MAR vor und sind für jede einzelne Einnahme geplant."
+
+# ExampleScenario.process.postConditions
+#: ExampleScenario.process.postConditions
+msgid "Medication administration Reports are submitted, EHR is updated."
+msgstr "Berichte zur Medikamentenverabreichung werden übermittelt, das EHR-System wird aktualisiert."
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "1. Get today's schedule"
+msgstr "1. Heutigen Zeitplan abrufen"
+
+# ExampleScenario.process.title
+#: ExampleScenario.process.title
+msgid "P1. Query Administration Requests"
+msgstr "P1. Anforderungen zur Medikamentenverabreichung abfragen"
+
+# ExampleScenario.process.description
+#: ExampleScenario.process.description
+msgid "Query for medication administration orders,\n- For today's shifts\n- For today's patients"
+msgstr "Abfrage von Aufträgen zur Medikamentenverabreichung,\n- für die heutigen Schichten\n- für die heutigen Patienten"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "2.Query for medication administration orders,\n- For today's shifts\n- For today's patients"
+msgstr "2. Abfrage von Aufträgen zur Medikamentenverabreichung,\n- für die heutigen Schichten\n- für die heutigen Patienten"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Notify (alert)"
+msgstr "Benachrichtigen (Alarm)"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Read orders"
+msgstr "Aufträge lesen"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Ask if patient took meds"
+msgstr "Fragen, ob Patient Medikamente eingenommen hat"
+
+# ExampleScenario.process.step.alternative.title
+#: ExampleScenario.process.step.alternative.title
+msgid "Patient took drugs"
+msgstr "Patient hat Medikamente eingenommen"
+
+# ExampleScenario.process.step.alternative.description
+#: ExampleScenario.process.step.alternative.description
+msgid "Invoke if patient took medications"
+msgstr "Ausführen, wenn Patient Medikamente eingenommen hat"
+
+# ExampleScenario.process.title
+#: ExampleScenario.process.title
+msgid "Register Meds taken"
+msgstr "Einnahme erfassen"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Register Meds taken"
+msgstr "Einnahme erfassen"
+
+# ExampleScenario.process.step.alternative.title
+#: ExampleScenario.process.step.alternative.title
+msgid "No drugs"
+msgstr "Keine Einnahme"
+
+# ExampleScenario.process.step.alternative.description
+#: ExampleScenario.process.step.alternative.description
+msgid "No, patient did not take drugs"
+msgstr "Nein, Patient hat keine Medikamente eingenommen"
+
+# ExampleScenario.process.title
+#: ExampleScenario.process.title
+msgid "Register Meds NOT taken"
+msgstr "Nicht-Einnahme erfassen"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Register Meds NOT taken"
+msgstr "Nicht-Einnahme erfassen"
+
+# ExampleScenario.process.step.alternative.title
+#: ExampleScenario.process.step.alternative.title
+msgid "Not clear"
+msgstr "Unklar"
+
+# ExampleScenario.process.step.alternative.description
+#: ExampleScenario.process.step.alternative.description
+msgid "Unknown whether patient took medications or not"
+msgstr "Unbekannt, ob Patient Medikamente eingenommen hat"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Administer drug"
+msgstr "Medikament verabreichen"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Register administration"
+msgstr "Verabreichung dokumentieren"
+
+# ExampleScenario.process.title
+#: ExampleScenario.process.title
+msgid "P2. Update administration reports"
+msgstr "P2. Verabreichungsberichte aktualisieren"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Nurse updates administration report"
+msgstr "Pflegekraft aktualisiert den Bericht zur Medikamentenverabreichung"
+
+# ExampleScenario.process.title
+#: ExampleScenario.process.title
+msgid "P3. Upload administration reports"
+msgstr "P3. Verabreichungsberichte hochladen"
+
+# ExampleScenario.process.description
+#: ExampleScenario.process.description
+msgid "The nurse's system uploads the administration results to the server"
+msgstr "Das System der Pflegekraft überträgt die Verabreichungsergebnisse an den Server"
+
+# ExampleScenario.process.step.operation.name
+#: ExampleScenario.process.step.operation.name
+msgid "Refresh"
+msgstr "Aktualisieren"
+

@@ -1,0 +1,21 @@
+
+# A natural language name identifying the structure definition. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: StructureDefinition.name
+msgid "ExampleExtensionStructureDefinition"
+msgstr "ExampleExtensionStructureDefinition"
+
+# A short, descriptive, user-friendly title for the structure definition.
+#: StructureDefinition.title
+msgid "Example Extension Structure Definition"
+msgstr "Beispiel-StructureDefinition für eine Extension"
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the structure definition.
+#: StructureDefinition.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# A name for the specification that is being mapped to.
+#: StructureDefinition.mapping.rim/name
+msgid "RIM Mapping"
+msgstr "RIM Mapping"
+
