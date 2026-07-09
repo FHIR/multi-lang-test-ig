@@ -1,0 +1,21 @@
+
+# SearchParameter.name
+#: SearchParameter.name
+msgid "ExampleSearchParameter"
+msgstr ""
+
+# SearchParameter.publisher
+#: SearchParameter.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# SearchParameter.description
+#: SearchParameter.description
+msgid "Example Search Parameter Instance"
+msgstr "Beispiel-SearchParameter-Instanz"
+
+# SearchParameter.purpose
+#: SearchParameter.purpose
+msgid "Need to search by identifier for various infrastructural cases - mainly retrieving packages, and matching as part of a chain"
+msgstr "Suche nach Identifier für verschiedene infrastrukturelle Anwendungsfälle, vor allem zum Abrufen von Packages und zum Matching als Teil einer Verarbeitungskette."
+

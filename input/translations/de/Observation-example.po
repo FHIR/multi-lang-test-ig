@@ -1,0 +1,46 @@
+
+# HumanName.text
+#: HumanName.text
+msgid "Dr. Smith"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "Vital Signs"
+msgstr ""
+
+# CodeableConcept.text
+#: CodeableConcept.text
+msgid "Vital Signs"
+msgstr "Vitalzeichen"
+
+# Coding.display
+#: Coding.display
+msgid "Oxygen saturation in Arterial blood"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "Oxygen saturation in Arterial blood by Pulse oximetry"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "MDC_PULS_OXIM_SAT_O2"
+msgstr ""
+
+# Quantity.unit
+#: Quantity.unit
+msgid "%"
+msgstr ""
+
+# Coding.display
+#: Coding.display
+msgid "Normal"
+msgstr ""
+
+# CodeableConcept.text
+#: CodeableConcept.text
+msgid "Normal (applies to non-numeric results)"
+msgstr ""
+

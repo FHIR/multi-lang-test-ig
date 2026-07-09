@@ -1,0 +1,31 @@
+
+# Requirements.title
+#: Requirements.title
+msgid "Narrative Conformance Statements"
+msgstr "Narrative Konformitätsaussagen"
+
+# Requirements.publisher
+#: Requirements.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# Requirements.description
+#: Requirements.description
+msgid "Conformance statements found throughout the narrative of the IG consolidated into this computable resource for traceability purposes"
+msgstr "Konformitätsaussagen aus dem narrativen Teil des IG, die zur Rückverfolgbarkeit in dieser maschinenverarbeitbaren Ressource zusammengeführt wurden."
+
+# Coding.display
+#: Coding.display
+msgid "VS1"
+msgstr ""
+
+# Requirements.statement.requirement
+#: Requirements.statement.requirement
+msgid "Systems SHALL do the things that are essential"
+msgstr "Systeme MÜSSEN die wesentlichen Dinge tun."
+
+# Requirements.statement.requirement
+#: Requirements.statement.requirement
+msgid "Systems SHOULD do the things that are good practice"
+msgstr "Systeme SOLLEN die Dinge tun, die guter Praxis entsprechen."
+

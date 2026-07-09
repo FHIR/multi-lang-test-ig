@@ -1,0 +1,86 @@
+
+# ConceptMap.name
+#: ConceptMap.name
+msgid "ExampleConceptMap"
+msgstr ""
+
+# ConceptMap.title
+#: ConceptMap.title
+msgid "Example Concept Map"
+msgstr "Beispiel-ConceptMap"
+
+# ConceptMap.publisher
+#: ConceptMap.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# ConceptMap.description
+#: ConceptMap.description
+msgid "Example Concept Map Instance"
+msgstr "Beispiel-ConceptMap-Instanz"
+
+# CodeableConcept.text
+#: CodeableConcept.text
+msgid "for CCDA Usage"
+msgstr "für die CCDA-Nutzung"
+
+# ConceptMap.purpose
+#: ConceptMap.purpose
+msgid "To help implementers map from HL7 v3/CDA to FHIR"
+msgstr "Zur Unterstützung von Implementierenden beim Mapping von HL7 v3/CDA nach FHIR"
+
+# ConceptMap.copyright
+#: ConceptMap.copyright
+msgid "Creative Commons 0"
+msgstr ""
+
+# ConceptMap.group.element.display
+#: ConceptMap.group.element.display
+msgid "home"
+msgstr "privat"
+
+# ConceptMap.group.element.target.display
+#: ConceptMap.group.element.target.display
+msgid "home address"
+msgstr "Privatadresse"
+
+# ConceptMap.group.element.display
+#: ConceptMap.group.element.display
+msgid "work"
+msgstr "Arbeit"
+
+# ConceptMap.group.element.target.display
+#: ConceptMap.group.element.target.display
+msgid "work place"
+msgstr "Arbeitsplatz"
+
+# ConceptMap.group.element.display
+#: ConceptMap.group.element.display
+msgid "Temporary"
+msgstr "Temporär"
+
+# ConceptMap.group.element.target.display
+#: ConceptMap.group.element.target.display
+msgid "temporary address"
+msgstr "temporäre Adresse"
+
+# ConceptMap.group.element.display
+#: ConceptMap.group.element.display
+msgid "Old / Incorrect"
+msgstr "Alt / falsch"
+
+# ConceptMap.group.element.target.display
+#: ConceptMap.group.element.target.display
+msgid "bad address"
+msgstr "falsche Adresse"
+
+# ConceptMap.group.element.target.comment
+#: ConceptMap.group.element.target.comment
+msgid "In the HL7 v3 AD, old is handled by the usablePeriod element, but you have to provide a time, there's no simple equivalent of flagging an address as old"
+msgstr "In HL7 v3 AD wird „alt“ über das Element usablePeriod abgebildet; dafür muss jedoch ein Zeitpunkt angegeben werden. Es gibt kein einfaches Äquivalent, um eine Adresse als alt zu kennzeichnen."
+
+# ConceptMap.group.unmapped.display
+#: ConceptMap.group.unmapped.display
+msgid "temp"
+msgstr ""
+

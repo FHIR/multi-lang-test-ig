@@ -1,0 +1,26 @@
+
+# StructureMap.name
+#: StructureMap.name
+msgid "ExampleStructureMap"
+msgstr ""
+
+# StructureMap.title
+#: StructureMap.title
+msgid "Example Structure Map"
+msgstr "Beispiel-StructureMap"
+
+# StructureMap.publisher
+#: StructureMap.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# StructureMap.description
+#: StructureMap.description
+msgid "Example Structure Map Instance"
+msgstr "Beispiel-StructureMap-Instanz"
+
+# StructureMap.group.documentation
+#: StructureMap.group.documentation
+msgid "test -> testValue"
+msgstr "test -> testWert"
+

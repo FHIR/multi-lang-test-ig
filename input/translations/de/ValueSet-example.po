@@ -1,0 +1,36 @@
+
+# ValueSet.name
+#: ValueSet.name
+msgid "ExampleValueSet"
+msgstr ""
+
+# ValueSet.title
+#: ValueSet.title
+msgid "Example Value Set"
+msgstr "Beispiel-ValueSet"
+
+# ValueSet.publisher
+#: ValueSet.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# ValueSet.description
+#: ValueSet.description
+msgid "Example ValueSet Instance"
+msgstr "Beispiel-ValueSet-Instanz"
+
+# ValueSet.compose.include.concept.display
+#: ValueSet.compose.include.concept.display
+msgid "VS1"
+msgstr ""
+
+# ValueSet.compose.include.concept.designation.value
+#: ValueSet.compose.include.concept.designation.value
+msgid "VS2"
+msgstr ""
+
+# ValueSet.compose.include.concept.designation.value
+#: ValueSet.compose.include.concept.designation.value
+msgid "VS1"
+msgstr ""
+

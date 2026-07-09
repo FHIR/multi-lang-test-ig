@@ -1,0 +1,251 @@
+
+# ImplementationGuide.name
+#: ImplementationGuide.name
+msgid "MultiLanguageTestIG"
+msgstr ""
+
+# ImplementationGuide.title
+#: ImplementationGuide.title
+msgid "Multi-Language Test IG"
+msgstr "Mehrsprachiger Test-IG"
+
+# ImplementationGuide.publisher
+#: ImplementationGuide.publisher
+msgid "HL7 International / FHIR Infrastructure"
+msgstr ""
+
+# ImplementationGuide.description
+#: ImplementationGuide.description
+msgid "This IG exists to test out the generation of multi-language IGs. Primary language is en, also does nl, pt, and ar (rtl test)"
+msgstr "Dieser IG dient dazu, die Generierung mehrsprachiger IGs zu testen. Die Primärsprache ist en; außerdem werden nl, pt und ar unterstützt (RTL-Test)."
+
+# ImplementationGuide.definition.grouping.name
+#: ImplementationGuide.definition.grouping.name
+msgid "Test Group"
+msgstr "Testgruppe"
+
+# ImplementationGuide.definition.grouping.description
+#: ImplementationGuide.definition.grouping.description
+msgid "Description for test group"
+msgstr "Beschreibung der Testgruppe"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "A demonstration code system"
+msgstr "Ein CodeSystem zu Demonstrationszwecken"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Example Code System Instance"
+msgstr "Beispielinstanz eines CodeSystem"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "a demonstration Value set"
+msgstr "Ein ValueSet zu Demonstrationszwecken"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Example ValueSet Instance"
+msgstr "Beispielinstanz eines ValueSet"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Structure Definition"
+msgstr "Beispiel-StructureDefinition"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Test Patient Profile"
+msgstr "Test-Patientenprofil"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Simple patient example"
+msgstr "Einfaches Patientenbeispiel"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A simple example showing how examples are defined and referenced"
+msgstr "Ein einfaches Beispiel, das zeigt, wie Beispiele definiert und referenziert werden."
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Library"
+msgstr "Beispiel-Library"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test example Library"
+msgstr "Eine beispielhafte Test-Library"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Questionnaire"
+msgstr "Beispiel-Questionnaire"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test Questionnaire"
+msgstr "Ein Test-Questionnaire"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Concept Map"
+msgstr "Beispiel-ConceptMap"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test ConceptMap"
+msgstr "Eine Test-ConceptMap"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Structure Map"
+msgstr "Beispiel-StructureMap"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test StructureMap"
+msgstr "Eine Test-StructureMap"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Operation Definition"
+msgstr "Beispiel-OperationDefinition"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test OperationDefinition"
+msgstr "Eine Test-OperationDefinition"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "ExampleExampleScenario"
+msgstr ""
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test ExampleScenario"
+msgstr "Ein Test-ExampleScenario"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Actor Definition"
+msgstr "Beispiel-ActorDefinition"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test ActorDefinition"
+msgstr "Eine Test-ActorDefinition"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Requirements"
+msgstr "Beispiel für Requirements"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test Requirements"
+msgstr "Requirements zu Testzwecken"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Capability Statement"
+msgstr "Beispiel-CapabilityStatement"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test CapabilityStatement"
+msgstr "Ein Test-CapabilityStatement"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "ExampleSearchParameter"
+msgstr ""
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "A test SearchParameter"
+msgstr "Ein Test-SearchParameter"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Observation patient example"
+msgstr "Beispiel einer Observation für einen Patienten"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "1st Observation example"
+msgstr "Erstes Observation-Beispiel"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example binary"
+msgstr "Beispiel für Binary"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Example showing binary content"
+msgstr "Beispiel mit binärem Inhalt"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "null (Bundle)"
+msgstr ""
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Narrative Conformance Statements"
+msgstr "Narrative Konformitätsaussagen"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Conformance statements found throughout the narrative of the IG consolidated into this computable resource for traceability purposes"
+msgstr "Konformitätsaussagen aus dem narrativen Teil des IG, die zur Rückverfolgbarkeit in dieser maschinenverarbeitbaren Ressource zusammengeführt wurden."
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Extension Structure Definition"
+msgstr "Beispiel-StructureDefinition für eine Extension"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Example Extension Structure Definition Instance"
+msgstr "Beispielinstanz einer StructureDefinition für eine Extension"
+
+# ImplementationGuide.definition.resource.name
+#: ImplementationGuide.definition.resource.name
+msgid "Example Logical Structure Definition"
+msgstr "Beispiel eines logischen Modells"
+
+# ImplementationGuide.definition.resource.description
+#: ImplementationGuide.definition.resource.description
+msgid "Example Logical Structure Definition Instance"
+msgstr "Beispielinstanz einer StructureDefinition für ein logisches Modell"
+
+# ImplementationGuide.definition.page.title
+#: ImplementationGuide.definition.page.title
+msgid "Table of Contents"
+msgstr "Inhaltsverzeichnis"
+
+# ImplementationGuide.definition.page.title
+#: ImplementationGuide.definition.page.title
+msgid "Test IG Home Page"
+msgstr "Startseite des Test-IG"
+
+# ImplementationGuide.definition.page.title
+#: ImplementationGuide.definition.page.title
+msgid "Translated"
+msgstr "Übersetzt"
+
+# ImplementationGuide.definition.page.title
+#: ImplementationGuide.definition.page.title
+msgid "Translation Information"
+msgstr "Informationen zu Übersetzungen"
+
+# ImplementationGuide.definition.page.title
+#: ImplementationGuide.definition.page.title
+msgid "Not Translated"
+msgstr "Nicht übersetzt"
+
